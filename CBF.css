@@ -1,0 +1,22 @@
+section {
+    border: 5px solid;
+    color: rgba(7, 147, 228, 0.974);
+    text-align: justify;
+    margin: 10px;
+    padding: 10px;
+}
+.Palmeiras {
+    color: green;
+}
+
+.Corinthians {
+    color: black;
+}
+
+.Internacional {
+    color: red;
+}
+
+.Fluminense {
+    color: rgb(255, 0, 0);
+}
